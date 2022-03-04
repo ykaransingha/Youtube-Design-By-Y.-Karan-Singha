@@ -1,0 +1,131 @@
+.main
+{
+    padding-left: 60px;
+}
+.clm
+{
+    float: left;
+}
+.clm1
+{
+    float: left;
+}
+
+.searchbox
+{
+    padding-bottom: 1%;
+    margin-left: 250px;
+    padding-right: 25%;
+    
+}
+::placeholder
+{
+    font-family: 'Roboto','Noto',sans-serif;
+    font-size: 18px;
+    padding: 1vh;
+}
+.search
+{
+    
+    cursor: pointer;   
+    margin-left: 63%;
+    margin-top: 0;
+}
+.songa
+{
+    width: 400px;
+    margin-top: 10vh;
+    margin-left: 3vh;
+    
+}
+.songs
+{
+    font-family: "Roboto","Arial",sans-serif;;
+    margin-left: 7%;
+}
+.songa:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.songb
+{
+    width: 400px;
+    margin-top: 10vh;  
+    margin-left: 3vh;
+    
+}
+.songb:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.songc
+{
+    width: 400px;
+    margin-top: 10vh;  
+    margin-left: 3vh; 
+}
+.songc:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.songd
+{
+    width: 400px;
+    margin-top: 3vh;  
+    margin-left: 3vh;
+    
+
+}
+.songd:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.songe
+{
+    width: 400px;
+    margin-top: 3vh;  
+    margin-left: 3vh;
+
+}
+.songe:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.songg
+{
+    width: 400px;
+    margin-top: 3vh;  
+    margin-left: 3vh;
+
+}
+.songg:hover
+{
+    left:-35px;
+    width:500px;
+   cursor: pointer;
+    -webkit-transition-duration: 0.3s;
+}
+.search
+{
+    border-radius: 3px;
+    
+}
+.yt
+{
+    margin-top: 1%;
+}
